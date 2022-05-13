@@ -1,3 +1,3 @@
-# COVID-19-Live-Tracker
+# COVID-19 Live Tracker Microservice App
 
 This project is to develop and deploy applications based on Spring Boot, React and MongoDB microservices in a Docker and Kubernetes environment.

@@ -3,7 +3,6 @@
 This project is to develop and deploy applications based on Spring Boot, React and MongoDB microservices in a Docker and Kubernetes environment.
 
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
 [![Spring][spring-shield]][spring-url]

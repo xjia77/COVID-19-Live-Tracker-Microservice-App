@@ -16,5 +16,31 @@ This project is to develop and deploy applications based on Spring Boot, React a
 [![Instagram][instagram-shield]][instagram-url]
 [![Facebook][facebook-shield]][facebook-url]
 
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/amrityam/spring-boot-reactjs-kubernetes.svg?style=for-the-badge
+[contributors-url]: https://github.com/amrityam/spring-boot-reactjs-kubernetes/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/amrityam/spring-boot-reactjs-kubernetes.svg?style=for-the-badge
+[forks-url]: https://github.com/amrityam/spring-boot-reactjs-kubernetes/network/members
+[stars-shield]: https://img.shields.io/github/stars/amrityam/spring-boot-reactjs-kubernetes.svg?style=for-the-badge
+[stars-url]: https://github.com/amrityam/spring-boot-reactjs-kubernetes/stargazers
+[issues-shield]: https://img.shields.io/github/issues/amrityam/spring-boot-reactjs-kubernetes.svg?style=for-the-badge
+[issues-url]: https://github.com/amrityam/spring-boot-reactjs-kubernetes/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/amrityam/spring-boot-reactjs-kubernetes/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[spring-shield]: https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+[spring-url]: https://spring.io/projects/spring-boot
+[react-shield]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[react-url]: https://reactjs.org/
+[mongodb-shield]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+[mongodb-url]: https://www.mongodb.com/
+[linkedin-url]: https://www.linkedin.com/in/amrityam-rout-725b4752/
+[twitter-shield]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[twitter-url]: https://twitter.com/iamrityam
+[instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[instagram-url]: https://www.instagram.com/amrityam_rout/
+[facebook-shield]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+[facebook-url]: https://www.facebook.com/amrityam
 
 

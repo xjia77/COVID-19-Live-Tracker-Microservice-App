@@ -4,9 +4,7 @@ This project is to develop and deploy applications based on Spring Boot, React a
 
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![Spring][spring-shield]][spring-url]
 [![React][react-shield]][react-url]
@@ -19,12 +17,8 @@ This project is to develop and deploy applications based on Spring Boot, React a
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors//spring-boot-reactjs-kubernetes.svg?style=for-the-badge
 [contributors-url]: https://github.com/
-[forks-shield]: https://img.shields.io/github/forks//spring-boot-reactjs-kubernetes.svg?style=for-the-badge
-[forks-url]: https://github.com//spring-boot-reactjs-kubernetes/network/members
 [stars-shield]: https://img.shields.io/github/stars/spring-boot-reactjs-kubernetes.svg?style=for-the-badge
 [stars-url]: https://github.com/spring-boot-reactjs-kubernetes/stargazers
-[issues-shield]: https://img.shields.io/github/issues/spring-boot-reactjs-kubernetes.svg?style=for-the-badge
-[issues-url]: https://github.com/spring-boot-reactjs-kubernetes/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/spring-boot-reactjs-kubernetes/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white

@@ -27,7 +27,7 @@ This project is to develop and deploy applications based on Spring Boot, React a
 [react-url]: https://reactjs.org/
 [mongodb-shield]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 [mongodb-url]: https://www.mongodb.com/
-[linkedin-url]: https://www.linkedin.com/in/
+[linkedin-url]: https://www.linkedin.com/in/xingbojia/
 [twitter-shield]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [twitter-url]: https://twitter.com/
 [instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
